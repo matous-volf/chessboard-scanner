@@ -1,0 +1,4 @@
+Na zámku Karlova Koruna se kastelán procházel po zámeckých pokojích, a když došel do šachového salonku, zjistil, že jeho synovci si zase hráli a zapomněli po sobě uklidit. Na šachovém stolečku zůstala rozehraná hra Šachy. Kastelán svým synovcům už jednou říkal, že pokud nechají hru neuklizenou, každý udělá 3 dřepy, za každou figurku pěšce, 2 dřepy s výskokem za figurku koně, 3 lehy-sedy za figurku střelce, 2 kliky za figurku věže, a 5 angličáků za figurku dámy, za figurku krále, která zůstala ležet na šachovnici, pak 5 panáků.
+Pomozte kastelánovi rychle spočítat, kolik cviků budou jeho synovci muset udělat.
+
+Váš program bude mít k dispozici obrázek šachovnice s figurkami o rozměrech 800x800 bodů, každé políčko šachovnice tak představuje čtvereček 100x100 bodů. Figurky jsou pak zobrazeny podle přiloženého vzoru. Figurky se nacházejí na šachovnici tak, že jsou vždy jen na jednom políčku a žádnou svojí částí nezasahují do dalšího políčka.
